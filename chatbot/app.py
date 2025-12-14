@@ -8,7 +8,7 @@ from newton_method_final import NewtonSolver, format_output_string
 
 import os
 
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyB9lwxGn0BFdGk2L80-2sZyN3GOrfywuLE'
+os.environ['GOOGLE_API_KEY'] = 'Your_key'
 
 def load_llm_model():
     llm = ChatGoogleGenerativeAI(
