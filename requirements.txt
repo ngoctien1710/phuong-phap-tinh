@@ -1,0 +1,11 @@
+langchain-google-genai
+gradio
+numpy
+sympy
+prettytable
+matplotlib
+re
+os
+langchain
+langchain-community
+langchain-text-splitters

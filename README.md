@@ -1,0 +1,6 @@
+- vào file app.py sửa sys.path.append('/home/tien/my_project/phuong-phap-tinh/algorithm') thành sys.path.append('<flie path cua file newton_method.py>')
+- Sau đó open folder trong vs code
+- mở terminal gõ : python3 -m venv venv
+- gõ pip install - U requirements.txt
+- gõ export GOOGLE_API_KEY="<copy key trong file key.env vào đây>"
+- chạy code, xem nó trả về local url, copy rồi dán vào trình duyệt.
